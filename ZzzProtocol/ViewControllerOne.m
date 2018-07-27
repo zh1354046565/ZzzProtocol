@@ -39,7 +39,7 @@
 -(void)hhhh:(int)num{
     NSLog(@"ViewControllerTwo传过来的值为:%d",num);
 }
-//左侧滑动手势返回
+
 - (void)viewDidDisappear:(BOOL)animated
 {
     [super viewDidDisappear:animated];

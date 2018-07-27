@@ -30,9 +30,8 @@
     [self.navigationController pushViewController:one animated:YES];
     
 }
-
 -(void)hhhh:(int)num{
-    NSLog(@"ViewControllerTwo传过来的值为:%d",num);
+    NSLog(@"ViewControllerOne传过来的值为:%d",num);
 }
 
 
